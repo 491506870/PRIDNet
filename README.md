@@ -8,3 +8,6 @@ While deep Convolutional Neural Networks (CNNs) have  shown  extraordinary  capa
 
 ## 2. Network Structure
 ![avatar](figs/net.jpg)
+
+## 3. Experiments
+Training and Validation dataset is SIDD Medium Dataset from [Smartphone Image Denoising Dataset](https://www.eecs.yorku.ca/~kamel/sidd/).
