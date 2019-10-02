@@ -12,8 +12,9 @@ While deep Convolutional Neural Networks (CNNs) have  shown  extraordinary  capa
 ## 3. Experiments
 Training and Validation dataset is SIDD Medium Dataset from [Smartphone Image Denoising Dataset](https://www.eecs.yorku.ca/~kamel/sidd/).
 
+### 3.1 Quantitative performance of our model on DND compared with other published techniques, and sorted by sRGB PSNR.
 ![avatar](figs/DND-1.jpg)
-
+### 3.2 Denoising performance of state-of-the-art methods on a DND image.
 ![avatar](figs/DND-2.jpg)
-
+### 3.3 Denoising performance of state-of-the-art methods on a NC12 image.
 ![avatar](figs/NC12.jpg)
