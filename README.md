@@ -7,11 +7,7 @@ Training dataset : [SIDD Medium Dataset](https://www.eecs.yorku.ca/~kamel/sidd/d
 
 Validation dataset : [SIDD Validation data](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php)
 
-Testing dataset : [SIDD Benchmark](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php)
-
-Testing dataset : [DND](https://noise.visinf.tu-darmstadt.de/)
-
-Testing dataset : [NC12](http://demo.ipol.im/demo/125/archive/)
+Testing dataset : [SIDD Benchmark](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php),  [DND](https://noise.visinf.tu-darmstadt.de/),  [NC12](http://demo.ipol.im/demo/125/archive/)
 
 The trained model for raw_rgb : [Google Driver](https://drive.google.com/drive/folders/1hXEYHpwF0wjKHl5loR58HklSSNMxtg7v?usp=sharing) 
 
